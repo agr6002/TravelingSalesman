@@ -1,0 +1,5 @@
+console.log arrays
+--organize
+---find shapes 3 sides + and if two sides add up to less than one eliminalate the big one
+---find bridges routes where there is only one possible way to travel
+    ---brideges consider each side a seperate problem
